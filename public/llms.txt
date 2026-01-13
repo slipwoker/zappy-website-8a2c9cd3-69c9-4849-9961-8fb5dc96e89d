@@ -1,0 +1,57 @@
+# השם הפרטי — Generative Engine Optimization Map
+
+> A שיפוצים ותיקונים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-8a2c9cd3.zappy5.app
+מחפשים בעל מקצוע לתיקונים בבית? השם הפרטי מציעים שירותי תיקונים ושיפוצים מקצועיים לבעלי בתים ומשרדים. צרו קשר עוד היום!
+
+### שירותים
+https://-8a2c9cd3.zappy5.app/services
+גלו את מגוון השירותים המקצועיים של השם הפרטי: חשמל, אינסטלציה, צבע, נגרות ועוד. בעל מקצוע לתיקונים בבית שאפשר לסמוך עליו.
+
+### אודות
+https://-8a2c9cd3.zappy5.app/about
+הכירו את הסיפור מאחורי השם הפרטי - בעל מקצוע לתיקונים בבית המוביל בישראל. שנים של ניסיון, מקצועיות ומחויבות ללקוחות.
+
+### צור קשר
+https://-8a2c9cd3.zappy5.app/contact
+צרו קשר עם השם הפרטי לשירותי תיקונים בבית בישראל. קבלו ייעוץ מקצועי והצעת מחיר חינם. זמינים לשירותכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8a2c9cd3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8a2c9cd3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8a2c9cd3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השם הפרטי
+השם הפרטי is a business in the שיפוצים ותיקונים industry.
+
+## Target Audience
+בעלי בתים פרטיים ובעלי משרדים
+
+## Industry
+שיפוצים ותיקונים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8a2c9cd3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8a2c9cd3.zappy5.app/robots.txt
